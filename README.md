@@ -1,9 +1,10 @@
+# Intel® Smart Edge Open
+
 ```text
 SPDX-License-Identifier: Apache-2.0
 Copyright (c) 2021 Intel Corporation
 ```
 
-# Intel® Smart Edge Open
 Intel® Smart Edge Open simplifies the process of creating edge solutions capable
 of hosting network functions alongside AI, media processing, and security workloads.
 
